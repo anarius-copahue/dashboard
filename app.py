@@ -59,7 +59,7 @@ def login():
     if not st.session_state.autenticado:
         _, col_central, _ = st.columns([1.2, 1, 1.2])
         with col_central:
-            st.image("logo.png", width=220)
+        
             st.markdown("<h2 class='centered-text'>Completa tus credenciales para ingresar</h2>", unsafe_allow_html=True)
             
             user_input = st.text_input("Usuario")
