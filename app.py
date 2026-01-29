@@ -82,7 +82,7 @@ def login():
 
 # --- 4. DASHBOARD (HUB) ---
 def main():
-    st.image("logo.png", width=140)
+    st.image("logo.png", width=200)
     
     st.markdown(f"""
         <div style="background-color: #1a1c24; padding: 15px; border-radius: 12px; margin-top: 20px; text-align: center;">
