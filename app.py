@@ -100,7 +100,7 @@ def main():
         {"tag": "Streamlit", "t": "📦Control de Avance", "d": "Ventas y stock en tiempo real.", "url": "https://caviahue-avance.streamlit.app/", "color": "#8BBACC", "bg": "#F2F8FA"},
         {"tag": "Looker Studio", "t": "🛒 Shopify Detail", "d": "Auditoría de órdenes y clientes.", "url": "https://lookerstudio.google.com/reporting/4e154199-d1be-4495-b405-a1a31366ac74", "color": "#A3C6D9", "bg": "#F4F9FC"},
         {"tag": "Looker Studio", "t": "📈 Venta Histórica", "d": "Data de Sell In/Out: Ventas por cliente y producto.", "url": "https://lookerstudio.google.com/reporting/6a2cec15-891e-410b-8ba5-d598b5437a3d", "color": "#7FA998", "bg": "#F1F7F4"},
-        {"tag": "Looker Studio", "t": "Analisis de Mercado Cantabria", "d": "(WIP) Data de IQVIA: Mercados y territorios", "url": "https://datastudio.google.com/reporting/fdbb7c4b-2300-4748-ae81-4a759f050eb9", "color": "#8BBACC", "bg": "#F2F8FA"},
+        {"tag": "Looker Studio", "t": "☀️ Análisis de Mercado Cantabria", "d": "(WIP) Data de IQVIA: Mercados y territorios", "url": "https://datastudio.google.com/reporting/fdbb7c4b-2300-4748-ae81-4a759f050eb9", "color": "#8BBACC", "bg": "#F2F8FA"},
         {"tag": "RRHH", "t": "👥 Naloo Gestión", "d": "Administración integral de Recursos Humanos y nómina.", "url": "https://app.naaloo.com/login", "color": "#B8A891", "bg": "#F9F7F4"},
         {"tag": "CRM", "t": "🌍 Elvis Representantes", "d": "Gestión de representantes y seguimiento de contactos.", "url": "https://sistemaelvis.net/...", "color": "#9EA8B0", "bg": "#F5F6F7"},
         {"tag": "Web", "t": "🗻 Caviahue Oficial", "d": "Acceso directo al sitio institucional y ecommerce.", "url": "https://www.cremascaviahue.com", "color": "#5D7A8C", "bg": "#EFF3F5"},
